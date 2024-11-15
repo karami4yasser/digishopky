@@ -130,7 +130,7 @@ function updateHeaderContent() {
       title: "Fun and Educational Books for Kids",
       description: "Our educational books are designed to inspire and teach kids in an engaging way. From math to stories, there’s a book for every curious mind!",
       linkText: "Explore Educational Books",
-      linkUrl: "#eduBooks"
+      linkUrl: "#books"
     }
     // Add more categories as needed
   };
