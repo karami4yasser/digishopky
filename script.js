@@ -2,17 +2,17 @@
 const books = [
   {
     title: "Wild Wonders: A Challenging Animal Coloring Adventure for Kids and Adults",
-    image: "book1.jpg",
+    image: "https://m.media-amazon.com/images/I/618ZxpAxqpL._SL1028_.jpg",
     link: "https://www.amazon.com/dp/B0DN6K22B7"
   },
   {
     title: "Wild Nature : Animals Coloring Book for All Ages",
-    image: "book2.jpg",
+    image: "https://m.media-amazon.com/images/I/61pOjhY+nPL._SL1028_.jpg",
     link: "https://www.amazon.com/dp/B0DN6LW15H"
   },
   {
     title: "Bird Lover's Coloring Adventure for All Ages",
-    image: "book3.jpg",
+    image: "https://m.media-amazon.com/images/I/51yw6bBhqZL._SL1028_.jpg",
     link: "https://www.amazon.com/dp/B0DN6L5GVS"
   }
 ];
