@@ -21,13 +21,32 @@
   </nav>
 
   <!-- Header Section -->
-  <header>
+  <!-- Header Section -->
+<header>
   <div class="header-content">
-    <h1>Unleash Your Creativity with Our Coloring Books</h1>
-    <p>Relax, unwind, and explore your artistic side with our exclusive collection of Amazon KDP coloring books. Perfect for all ages!</p>
-    <a href="#books" class="cta-btn">Start Coloring Now</a>
+    <h1 id="header-title">Unleash Your Creativity with Our Coloring Books</h1>
+    <p id="header-description">Relax, unwind, and explore your artistic side with our exclusive collection of Amazon KDP coloring books. Perfect for all ages!</p>
+    <a href="#books" class="cta-btn" id="cta-link">Start Coloring Now</a>
   </div>
 </header>
+
+
+
+  
+<!-- Category Selector -->
+<div class="category-selector">
+  <fieldset>
+    
+    <label for="category">Choose a category:</label>
+    <select id="category" onchange="filterBooks()" aria-label="Select a category">
+      
+      <option value="ColoringBooks">Coloring Books</option>
+      <option value="eduKids">Educational Books for Kids</option>
+      <!-- Add more categories here -->
+    </select>
+  </fieldset>
+</div>
+
 
   <!-- Main Content -->
   <main id="books">
