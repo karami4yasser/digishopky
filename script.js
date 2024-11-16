@@ -54,6 +54,13 @@ const books = [
     link: "https://www.amazon.com/dp/B0DMNSKQLZ",
     category: "eduKids"
   }
+  ,
+  {
+    title: "Realistic Flower Coloring Book : 100 Pages of Nature’s Most Beautiful Flowers for All Ages",
+    image: "https://m.media-amazon.com/images/I/61Iof6WBZ-L._SL1028_.jpg",
+    link: "https://www.amazon.com/dp/B0DN9W5RLH",
+    category: "ColoringBooks"
+  }
 ];
 
 // Function to display books
