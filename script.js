@@ -7,6 +7,12 @@ const books = [
     category: "ColoringBooks"
   },
   {
+    title: "Magical Christmas Coloring Book: 100 Pages of Festive Holiday Fun for All Ages - Perfect for Relaxation & Creativity",
+    image: "https://m.media-amazon.com/images/I/71qdKvG5XyL._SL1028_.jpg",
+    link: "https://www.amazon.com/dp/B0DNB6S5W6",
+    category: "ColoringBooks"
+  },
+  {
     title: "Wild Nature : Animals Coloring Book for All Ages",
     image: "https://m.media-amazon.com/images/I/61pOjhY+nPL._SL1028_.jpg",
     link: "https://www.amazon.com/dp/B0DN6LW15H",
@@ -61,6 +67,7 @@ const books = [
     link: "https://www.amazon.com/dp/B0DN9W5RLH",
     category: "ColoringBooks"
   }
+  
 ];
 
 // Function to display books
