@@ -74,6 +74,13 @@ const books = [
     link: "https://www.amazon.com/dp/B0DNCRZ165",
     category: "eduKids"
   }
+  ,
+  {
+    title: "Max’s Guide to Being Rich: A Kid’s Path to Smart Money Choices",
+    image: "https://m.media-amazon.com/images/I/41njv6k0oYL._SL1293_.jpg",
+    link: "https://www.amazon.com/dp/B0DNCVWDLD",
+    category: "eduKids"
+  }
   
 ];
 
