@@ -1,13 +1,6 @@
 // Array of book data
 const books = [
   {
-    title: "Smart Kid, Wise Kid: Learning About Money with Max",
-    image: "https://m.media-amazon.com/images/I/41BDmKFORoL._SL1293_.jpg",
-    link: "https://www.amazon.com/dp/B0DMLLRZXZ",
-    category: "eduKids"
-  }
-  ,
-  {
     title: "Wild Wonders: A Challenging Animal Coloring Adventure for Kids and Adults",
     image: "https://m.media-amazon.com/images/I/618ZxpAxqpL._SL1028_.jpg",
     link: "https://www.amazon.com/dp/B0DN6K22B7",
@@ -31,7 +24,21 @@ const books = [
     link: "https://www.amazon.com/dp/B0DN6L5GVS",
     category: "ColoringBooks"
   }
-
+  ,
+  {
+    title: "Realistic Flower Coloring Book : 100 Pages of Nature’s Most Beautiful Flowers for All Ages",
+    image: "https://m.media-amazon.com/images/I/61Iof6WBZ-L._SL1028_.jpg",
+    link: "https://www.amazon.com/dp/B0DN9W5RLH",
+    category: "ColoringBooks"
+  }
+  ,
+  {
+    title: "Smart Kid, Wise Kid: Learning About Money with Max",
+    image: "https://m.media-amazon.com/images/I/41BDmKFORoL._SL1293_.jpg",
+    link: "https://www.amazon.com/dp/B0DMLLRZXZ",
+    category: "eduKids"
+  }
+  ,
   ,
   {
     title: "Max's Money Adventure : Learning About Stocks and Investing",
@@ -62,10 +69,10 @@ const books = [
   }
   ,
   {
-    title: "Realistic Flower Coloring Book : 100 Pages of Nature’s Most Beautiful Flowers for All Ages",
-    image: "https://m.media-amazon.com/images/I/61Iof6WBZ-L._SL1028_.jpg",
-    link: "https://www.amazon.com/dp/B0DN9W5RLH",
-    category: "ColoringBooks"
+    title: "The Magic of Money: How Kids Can Make Smart Choices",
+    image: "https://m.media-amazon.com/images/I/41l6SvTFwVL._SL1293_.jpg",
+    link: "https://www.amazon.com/dp/B0DNCRZ165",
+    category: "eduKids"
   }
   
 ];
