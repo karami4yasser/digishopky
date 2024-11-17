@@ -1,6 +1,13 @@
 // Array of book data
 const books = [
   {
+    title: "Smart Kid, Wise Kid: Learning About Money with Max",
+    image: "https://m.media-amazon.com/images/I/41BDmKFORoL._SL1293_.jpg",
+    link: "https://www.amazon.com/dp/B0DMLLRZXZ",
+    category: "eduKids"
+  }
+  ,
+  {
     title: "Wild Wonders: A Challenging Animal Coloring Adventure for Kids and Adults",
     image: "https://m.media-amazon.com/images/I/618ZxpAxqpL._SL1028_.jpg",
     link: "https://www.amazon.com/dp/B0DN6K22B7",
@@ -25,13 +32,6 @@ const books = [
     category: "ColoringBooks"
   }
 
-  ,
-  {
-    title: "Smart Kid, Wise Kid: Learning About Money with Max",
-    image: "https://m.media-amazon.com/images/I/41BDmKFORoL._SL1293_.jpg",
-    link: "https://www.amazon.com/dp/B0DMLLRZXZ",
-    category: "eduKids"
-  }
   ,
   {
     title: "Max's Money Adventure : Learning About Stocks and Investing",
